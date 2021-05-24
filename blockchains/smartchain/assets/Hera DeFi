@@ -1,0 +1,10 @@
+    "name": "Hera DeFi",
+    "website": "https://hera.to",
+    "description": "Hera Defi is the Token behind the tech. Hera will drive our blockchain based NFT Multi-Vendor Marketplace, Exchange wallet and Blockchain Project Incubator that uses AI to pair buyers to sellers and investors to projects based on users interests.",
+    "explorer": "https://bscscan.com/token/0x98fa415ae3f7567a9fa4f89453c6938b6bb9ee76",
+    "type": "BEP20",
+    "symbol": "$HERA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x98fa415ae3f7567a9fa4f89453c6938b6bb9ee76"
+}
